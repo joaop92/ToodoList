@@ -1,0 +1,1 @@
+um toodolist um projeto para servir como agenda, ou lembrete ou organizacional... ele serve para adicionar remover e colocar, lembrar! feito com a biblioteca react usando ferramentas como js,html, e css
